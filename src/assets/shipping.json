@@ -1,14 +1,14 @@
 [
   {
-    "type": "Overnight",
+    "type": "No dia seguinte",
     "price": 25.99
   },
   {
-    "type": "2-Day",
+    "type": "Em dois dias",
     "price": 9.99
   },
   {
-    "type": "Postal",
+    "type": "Correios",
     "price": 2.99
   }
 ]

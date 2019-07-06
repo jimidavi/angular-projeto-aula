@@ -3,6 +3,8 @@ import { ActivatedRoute } from '@angular/router';
 import { products } from '../products';
 import { CartService } from '../cart.service';
 
+
+
 @Component({
   selector: 'app-product-details',
   templateUrl: './product-details.component.html',
@@ -22,7 +24,7 @@ ngOnInit() {
 }
 
   addToCart(product) {
-    window.alert('Your product has been added to the cart!');
+    window.alert('Seu produto foi adicionado ao carrinho de compras!');
     this.cartService.addToCart(product);
   }
   
