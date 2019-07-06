@@ -95,12 +95,12 @@ label {
 /* Fancy Button */
 
 .fancy-button {
-  background-color: white;
+  background-color: rgb(224, 18, 18);
   color: #1976d2;
 }
 
 .fancy-button i.material-icons {
-  color: #1976d2;
+  color: #19d232;
   padding-right: 4px;
 }
 
